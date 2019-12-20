@@ -1,0 +1,28 @@
+
+.bold {
+    font-weight: bold;
+    font-family: 'Shadows Into Light', cursive;
+    
+}
+h1 {
+    font-family: 'Roboto Mono', monospace;
+}
+
+h2 {
+    font-family: 'Padauk', sans-serif;  
+}
+
+h3 {
+    font-family: 'Noto Serif JP', serif;  
+}
+
+
+.enlarge {
+    font-size: 24pt;
+    font-family: 'Dancing Script', cursive;
+}
+
+.tall {
+    line-height:50px;
+    font-family: 'Indie Flower', cursive;
+}
